@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://github.com/Cbiux/Cbiux/blob/main/assets/ghostemane-mercury-retrograde-black-background-qd8h6wx2427ur2qn.jpg)
+![Aditya Kanoi Banner](https://github.com/Cbiux/Cbiux/blob/main/assets/portrait-bits.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
