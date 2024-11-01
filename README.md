@@ -8,9 +8,9 @@
 💡 &nbsp;I love exploring new technologies, creating software solutions, and networking worldwide.\
 🎓 &nbsp;I'm currently studying IC-ATI at ITCR.\
 🌱 &nbsp;I'm learning more about Web3, web development, and artificial intelligence.\
-✍️ &nbsp;In my free time, I enjoy traveling to new places,play videogames and improving my English.\
+✍️ &nbsp;In my free time, I enjoy traveling to new places, play videogames and improving my English.\
 💬 &nbsp;Feel free to reach out to me for volunteer opportunities, consulting, or just an interesting conversation.\
-✉️ &nbsp;You can email me at jsebascp04@gmail.com; I'll try to respond as soon as possible.\
+✉️ &nbsp;Feel free to reach out to me anytime; below is my contact.\
 <!--📄 &nbsp;Here is my [Résumé]() for more details about me. I'm open to feedback and suggestions! -->
 
 
@@ -73,6 +73,7 @@
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14oCyXH8vR/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/.cbiux)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastián-ceciliano-piedra-398a002b6/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsebascp04@gmail.com)
 
 
 
