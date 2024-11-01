@@ -46,6 +46,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![IDroo](https://img.shields.io/badge/IDroo-%23000000.svg?style=for-the-badge&logo=IDroo&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
