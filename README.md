@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm learning more about Web3, web development, and artificial intelligence.\
 ✍️ &nbsp;In my free time, I enjoy traveling to new places, play videogames and improving my English.\
 💬 &nbsp;Feel free to reach out to me for volunteer opportunities, consulting, or just an interesting conversation.\
-✉️ &nbsp;Feel free to reach out to me anytime; below is my contact.\
+✉️ &nbsp;Feel free to reach out to me anytime; below is my contact.
 <!--📄 &nbsp;Here is my [Résumé]() for more details about me. I'm open to feedback and suggestions! -->
 
 
