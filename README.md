@@ -15,7 +15,7 @@
 <!--📄 &nbsp;Here is my [Résumé]() for more details about me. I'm open to feedback and suggestions! -->
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/Cbiux/Cbiux/blob/main/assets/L.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
