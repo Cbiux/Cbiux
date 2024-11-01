@@ -1,6 +1,5 @@
-![Aditya Kanoi Banner](https://github.com/Cbiux/Cbiux/blob/main/assets/MainWallpaper.png)
+![Sebastian Ceciliano Banner](https://github.com/Cbiux/Cbiux/blob/main/assets/MainWallpaper.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Sebastián Ceciliano</h2>
 
 ## 👋 &nbsp;Hey there! I'm Sebastián Ceciliano 
 
