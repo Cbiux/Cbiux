@@ -15,7 +15,7 @@
 <!--📄 &nbsp;Here is my [Résumé]() for more details about me. I'm open to feedback and suggestions! -->
 
 
-<img alt="L" src="https://github.com/Cbiux/Cbiux/blob/main/assets/L.gif" align="right"/>
+<img alt="L" src="https://github.com/Cbiux/Cbiux/blob/main/assets/L-Lawliet.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
