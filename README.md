@@ -1,4 +1,4 @@
-![Sebastian Ceciliano Banner](https://github.com/Cbiux/Cbiux/blob/main/assets/MainWallpaper.png)
+![Sebastian Ceciliano Banner](https://github.com/Cbiux/Cbiux/blob/main/assets/Wallpaper.png)
 
 
 ## 👋 &nbsp;Hey there! I'm Sebastián Ceciliano 
