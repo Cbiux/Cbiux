@@ -18,7 +18,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for- the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -93,13 +93,16 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+<!--icons and links-->
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="www.linkedin.com/in/sebastián-ceciliano-piedra-398a002b6"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jsebascp04@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/jsebastian_04/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/share/14oCyXH8vR/"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sebastián-ceciliano-piedra-398a002b6/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://x.com/Cbiux_04" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/jsebastian_04/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.facebook.com/share/14oCyXH8vR/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
 </p>
+
 
 ### 🐍 &nbsp;That's How Commits move ...
 
