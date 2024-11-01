@@ -80,7 +80,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Cbiux_04)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=&logoColor=white)](https://x.com/Cbiux_04)
 [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jsebastian_04_)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14oCyXH8vR/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/.cbiux)
